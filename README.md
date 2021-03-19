@@ -6,5 +6,3 @@ Avec exemples sur https://alaindespont.github.io/
 - Moteur de recherche multisite
 - Stargate
 - Système solaire
-
-Sans exemples :
